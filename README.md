@@ -1,2 +1,3 @@
-# An-lisis-de-venta-de-autos
+# Analisis-de-venta-de-autos
 Proyecto 14
+En este proyecto trata de Rusty Bargain es un servicio de venta de coches de segunda mano que está desarrollando una app para atraer a nuevos clientes. Gracias a esa app, puedes averiguar rápidamente el valor de mercado de tu coche. Tienes acceso al historial, especificaciones técnicas, versiones de equipamiento y precios. Tienes que crear un modelo que determine el valor de mercado. En este trabajo se utilizan modelos de machine learning que utilizan el decenso de gradiente como catboost, lgbm y xboost
